@@ -64,7 +64,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/alchemy-fr/BinaryDriver"
+            "url": "https://github.com/cb8/BinaryDriver"
         }
     ],
     "minimum-stability": "dev"
